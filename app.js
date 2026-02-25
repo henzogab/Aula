@@ -1,5 +1,9 @@
 let listaDeNumerosSorteados = [];
+<<<<<<< HEAD
 let numeroLimite = 30;
+=======
+let numeroLimite = 10;
+>>>>>>> parent of 2aa0849 (Lucas alterou)
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
